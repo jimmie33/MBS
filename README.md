@@ -1,9 +1,10 @@
 # Minimum Barrier Salient Object Detection
 
+[![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE)
+
 This is a matlab implementation of the method described in:
 
-"Minimum Barrier Salient Object Detection at 80 FPS", Jianming Zhang, 
-Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price, Radomir Mech, ICCV, 2015
+["Minimum Barrier Salient Object Detection at 80 FPS", Jianming Zhang, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price, Radomir Mech, ICCV, 2015](http://cs-people.bu.edu/jmzhang/fastmbd.html)
 
 ## Prerequisite
 
